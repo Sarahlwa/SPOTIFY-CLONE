@@ -383,7 +383,7 @@ button{
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    margin-right: 2rem;
+    margin-right: 4rem;
 }
 
 
@@ -391,7 +391,7 @@ button{
 
 
 .right-range{
-     width: 30%;
+     width: 25%;
     appearance: none;
     background-color: transparent;
     cursor: pointer;
